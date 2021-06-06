@@ -1,7 +1,9 @@
 
 ### Hello World, I'm Jimena  👋
 
-<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/84801660/120926696-435ade00-c6de-11eb-82a9-7af2bcd62986.gif?raw=true" width="600" height="450" />
+
+
 
 
 ## I'm a Frontend Web Developer and Translator!
