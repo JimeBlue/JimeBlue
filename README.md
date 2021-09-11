@@ -1,7 +1,7 @@
 
 ### Hello World, I'm Jimena  👋
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/84801660/120926696-435ade00-c6de-11eb-82a9-7af2bcd62986.gif?raw=true" width="600" height="450" />
+
 
 
 
