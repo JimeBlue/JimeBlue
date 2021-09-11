@@ -1,12 +1,7 @@
 
-### Hello World, I'm Jimena  👋
+### Hi there  👋
 
-
-
-
-
-
-## I'm a Frontend Web Developer and Translator!
+## 
 
 - 🔭 I’m currently working on assignments of the Frontend Development Certificate at [UC San Diego Extension][website] 
 - 🌱 I’m currently learning JavaScirpt and React 
