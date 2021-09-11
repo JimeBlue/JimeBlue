@@ -1,5 +1,5 @@
 
-# Hi there  👋
+# Hi there, I´m Jimena  👋
  
 ### Front End Developer 
 I’m a Front End Developer living in Germany with experience in building responsive, accessible web applications and websites. I´m currently taking the last course of the Front End Development Certificate at [UC San Diego Extension][website] and I’m looking to expand my portfolio and collaborate on something new.
