@@ -1,7 +1,7 @@
 
 # Hi there, I´m Jimena  👋
  
-### Front End Developer 
+### Frontend Developer 
 I’m a passionate Junior Frontend Developer living in Germany. I have just finished the last course of the Front End Development Certificate at [UC San Diego Extension][website].  Seeking to join a collaborative team to develop my skills further and contribute to provide the best development experience.
 
 
