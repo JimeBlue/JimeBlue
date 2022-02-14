@@ -1,8 +1,9 @@
 
-# Hi there, I´m Jimena  👋
+# Hi there, I`m Jimena  👋
  
 ### Frontend Developer 
-I’m a passionate Junior Frontend Developer and Translator living in Germany. I have just finished the last course of the Front End Development Certificate at [UC San Diego Extension][website].  Seeking to join a collaborative team to develop my skills further and contribute to provide the best development experience.
+I`m a passionate Junior Frontend Developer living in Germany. I have recently graduated from the [University of California San Diego ][website] with a [Front End Development Postgraduate Certificate][Certificate]. Seeking to join a collaborative team to develop my skills further and contribute to provide the best Frontend Development experience.
+
 
 
 
@@ -53,6 +54,7 @@ I’m a passionate Junior Frontend Developer and Translator living in Germany. I
 <br />
 
 [website]: https://extension.ucsd.edu/courses-and-programs/front-end-development
+[Certificate]: https://extension.ucsd.edu/courses-and-programs/front-end-development
 [twitter]: https://twitter.com/JimeblueMiguez
 [instagram]: https://instagram.com/jimeblue
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
