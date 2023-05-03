@@ -19,9 +19,11 @@ I`m a Frontend Developer based in Germany working @ Airlst GmbH. Fast learner an
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="Github" width="26px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />]
+
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="figma" width="26px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/figma-1-logo.png" />][figma]
 [<img align="left" alt="Agile" width="26px" src="https://content.intland.com/hubfs/Imported_Blog_Media/Dark-Agile-Manifesto-Anti-Agile-Manifesto-Intland-Software-336x336.png" />][agile]
+
 
 
 
