@@ -21,22 +21,12 @@ I`m a Frontend Developer based in Germany working @ Airlst GmbH. Fast learner an
 ![Asana](https://a11ybadges.com/badge?logo=asana)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Bitbucket](https://a11ybadges.com/badge?logo=bitbucket)
+![Webflow](https://a11ybadges.com/badge?logo=webflow)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 
 
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="vue.js" width="26px" src="https://i2.wp.com/www.onasus.com/wp-content/uploads/2018/04/vuejs-javascript-framework.jpg?fit=544%2C550&ssl=1" />]
-[<img align="left" alt="nuxt.js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/NuxtJS_Logo.png" />]
-[<img align="left" alt="tailwind" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" />][tailwind]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="Github" width="26px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />]
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="figma" width="26px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/figma-1-logo.png" />][figma]
-[<img align="left" alt="Agile" width="26px" src="https://content.intland.com/hubfs/Imported_Blog_Media/Dark-Agile-Manifesto-Anti-Agile-Manifesto-Intland-Software-336x336.png" />][agile]
 
 
 
