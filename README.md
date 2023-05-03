@@ -1,9 +1,8 @@
 
-# Hi there, I`m Jimena  👋
+## Hi there 👋
  
-### Frontend Developer 
-I`m a Junior Frontend Developer based in Germany. I have recently finished an internship as a Frontend Developer at [The Collab Lab ][theCollabLab], where within a group of remote Web Developers, we built this awsome React/Firebase [Smart Shopping List App][smartShoppingList]. Seeking to join a collaborative team to develop my skills further and contribute to provide the best Frontend Development experience.
 
+I`m a Frontend Developer based in Germany working @ Airlst GmbH. Fast learner and eager to explore new technologies. Believer in agile software development, team work and Clean Code.
 
 
 
