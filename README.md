@@ -16,22 +16,17 @@ I`m a Frontend Developer based in Germany working @ Airlst GmbH. Fast learner an
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white9)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-)
+![Bitbucket](https://a11ybadges.com/badge?logo=bitbucket)
 ![Asana](https://a11ybadges.com/badge?logo=asana)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Bitbucket](https://a11ybadges.com/badge?logo=bitbucket)
 ![Webflow](https://a11ybadges.com/badge?logo=webflow)
-
-
-
-
+![Git](https://a11ybadges.com/badge?logo=git)
+	![GitHub](https://a11ybadges.com/badge?logo=github)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <br />
-
-
 
 ###  Human Languages
 <img align="left" alt="HTML5" width="26px" src="https://cdn-icons-png.flaticon.com/512/197/197374.png" />
@@ -44,8 +39,8 @@ I`m a Frontend Developer based in Germany working @ Airlst GmbH. Fast learner an
 ###  Let's Connect
 
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://play-lh.googleusercontent.com/wyapT_ICXBe40JAPKmll0r6WhEb7GE9IQaOzHgN-Ms79OH2fHjN4WRdev2AvUahO4LA" />][twitter]
+
 
 <br />
 
