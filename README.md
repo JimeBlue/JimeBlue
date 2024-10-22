@@ -2,7 +2,7 @@
 ## Hi there 👋
  
 
-I`m a Frontend Developer based in Germany working @ Airlst GmbH. Fast learner and eager to explore new technologies. Believer in agile software development, team work and Clean Code.
+I`m a Frontend Developer based in Germany. I'm always eager to explore new technologies. Believer in agile software development, team work and Clean Code.
 
 
 
