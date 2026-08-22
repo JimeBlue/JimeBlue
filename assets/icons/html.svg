@@ -1,10 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="88" height="88" viewBox="0 0 88 88" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" width="134" height="124" viewBox="0 0 134 124" role="img">
   <defs>
     <linearGradient id="bg-html" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#FCEDE9"/>
       <stop offset="1" stop-color="#F5C3B5"/>
     </linearGradient>
   </defs>
-  <circle cx="44" cy="44" r="42" fill="url(#bg-html)" stroke="#FFFFFF" stroke-width="3.5"/>
-  <g transform="translate(21.000 21.000) scale(0.35938)"><path fill="#E44D26" d="M19.037 113.876L9.032 1.661h109.936l-10.016 112.198-45.019 12.48z"/><path fill="#F16529" d="M64 116.8l36.378-10.086 8.559-95.878H64z"/><path fill="#EBEBEB" d="M64 52.455H45.788L44.53 38.361H64V24.599H29.489l.33 3.692 3.382 37.927H64zm0 35.743l-.061.017-15.327-4.14-.979-10.975H33.816l1.928 21.609 28.193 7.826.063-.017z"/><path fill="#fff" d="M63.952 52.455v13.763h16.947l-1.597 17.849-15.35 4.143v14.319l28.215-7.82.207-2.325 3.234-36.233.335-3.696h-3.708zm0-27.856v13.762h33.244l.276-3.092.628-6.978.329-3.692z"/></g>
+  <circle cx="67" cy="46" r="42" fill="url(#bg-html)" stroke="#FFFFFF" stroke-width="3.5"/>
+  <g transform="translate(44.000 23.000) scale(0.35938)"><path fill="#E44D26" d="M19.037 113.876L9.032 1.661h109.936l-10.016 112.198-45.019 12.48z"/><path fill="#F16529" d="M64 116.8l36.378-10.086 8.559-95.878H64z"/><path fill="#EBEBEB" d="M64 52.455H45.788L44.53 38.361H64V24.599H29.489l.33 3.692 3.382 37.927H64zm0 35.743l-.061.017-15.327-4.14-.979-10.975H33.816l1.928 21.609 28.193 7.826.063-.017z"/><path fill="#fff" d="M63.952 52.455v13.763h16.947l-1.597 17.849-15.35 4.143v14.319l28.215-7.82.207-2.325 3.234-36.233.335-3.696h-3.708zm0-27.856v13.762h33.244l.276-3.092.628-6.978.329-3.692z"/></g>
+  <text x="67" y="116" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" font-weight="600" fill="#747A80">HTML</text>
 </svg>

@@ -14,110 +14,32 @@ I like the boring parts: render budgets, cache keys, the state machine nobody wa
 
 ### Frontend
 
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="assets/icons/vue.svg" width="42" height="42" alt="Vue" /><br />
-      <sub><b>Vue</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="assets/icons/nuxt.svg" width="42" height="42" alt="Nuxt" /><br />
-      <sub><b>Nuxt</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="assets/icons/react.svg" width="42" height="42" alt="React" /><br />
-      <sub><b>React</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="assets/icons/nextjs.svg" width="42" height="42" alt="Next.js" /><br />
-      <sub><b>Next.js</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="assets/icons/javascript.svg" width="42" height="42" alt="JavaScript" /><br />
-      <sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="assets/icons/html.svg" width="42" height="42" alt="HTML" /><br />
-      <sub><b>HTML</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110">
-      <img src="assets/icons/css.svg" width="42" height="42" alt="CSS" /><br />
-      <sub><b>CSS</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="assets/icons/scss.svg" width="42" height="42" alt="SCSS" /><br />
-      <sub><b>SCSS</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="assets/icons/tailwind.svg" width="42" height="42" alt="Tailwind" /><br />
-      <sub><b>Tailwind</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="assets/icons/daisyui.svg" width="42" height="42" alt="DaisyUI" /><br />
-      <sub><b>DaisyUI</b></sub>
-    </td>
-    <td width="110"></td>
-    <td width="110"></td>
-  </tr>
-</table>
+<img src="assets/icons/vue.svg" width="84" alt="Vue" />
+<img src="assets/icons/nuxt.svg" width="84" alt="Nuxt" />
+<img src="assets/icons/react.svg" width="84" alt="React" />
+<img src="assets/icons/nextjs.svg" width="84" alt="Next.js" />
+<img src="assets/icons/javascript.svg" width="84" alt="JavaScript" />
+<img src="assets/icons/html.svg" width="84" alt="HTML" />
+<img src="assets/icons/css.svg" width="84" alt="CSS" />
+<img src="assets/icons/scss.svg" width="84" alt="SCSS" />
+<img src="assets/icons/tailwind.svg" width="84" alt="Tailwind" />
+<img src="assets/icons/daisyui.svg" width="84" alt="DaisyUI" />
 
 ### Backend &amp; Data
 
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="assets/icons/node.svg" width="42" height="42" alt="Node" /><br />
-      <sub><b>Node</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="assets/icons/express.svg" width="42" height="42" alt="Express" /><br />
-      <sub><b>Express</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="assets/icons/mongodb.svg" width="42" height="42" alt="MongoDB" /><br />
-      <sub><b>MongoDB</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="assets/icons/mongoose.svg" width="42" height="42" alt="Mongoose" /><br />
-      <sub><b>Mongoose</b></sub>
-    </td>
-    <td width="110"></td>
-    <td width="110"></td>
-  </tr>
-</table>
+<img src="assets/icons/node.svg" width="84" alt="Node" />
+<img src="assets/icons/express.svg" width="84" alt="Express" />
+<img src="assets/icons/mongodb.svg" width="84" alt="MongoDB" />
+<img src="assets/icons/mongoose.svg" width="84" alt="Mongoose" />
 
 ### Ship &amp; Tooling
 
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="assets/icons/git.svg" width="42" height="42" alt="Git" /><br />
-      <sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="assets/icons/github.svg" width="42" height="42" alt="GitHub" /><br />
-      <sub><b>GitHub</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="assets/icons/bitbucket.svg" width="42" height="42" alt="Bitbucket" /><br />
-      <sub><b>Bitbucket</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="assets/icons/amplify.svg" width="42" height="42" alt="AWS Amplify" /><br />
-      <sub><b>AWS Amplify</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="assets/icons/render.svg" width="42" height="42" alt="Render" /><br />
-      <sub><b>Render</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="assets/icons/claude.svg" width="42" height="42" alt="Claude Code" /><br />
-      <sub><b>Claude Code</b></sub>
-    </td>
-  </tr>
-</table>
+<img src="assets/icons/git.svg" width="84" alt="Git" />
+<img src="assets/icons/github.svg" width="84" alt="GitHub" />
+<img src="assets/icons/bitbucket.svg" width="84" alt="Bitbucket" />
+<img src="assets/icons/amplify.svg" width="84" alt="AWS Amplify" />
+<img src="assets/icons/render.svg" width="84" alt="Render" />
+<img src="assets/icons/claude.svg" width="84" alt="Claude Code" />
 
 <br />
 
