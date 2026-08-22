@@ -1,6 +1,7 @@
-# AI Web Developer
-
-<img src="assets/stats.svg" width="840" alt="492 commits in 2026. 74 public repositories. 246 pull requests. 90 active days in the last year. Most used languages: Vue 45 percent, JavaScript 22, TypeScript 14, CSS 11, HTML 6." />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img src="assets/header-light.svg" width="840" alt="AI Web Developer — 492 commits in 2026, 246 pull requests, 90 active days in the last year.">
+</picture>
 
 ## ABOUT
 
