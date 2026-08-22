@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="910" height="428" viewBox="0 0 910 428" role="img" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14.5" xml:space="preserve">
+<rect width="910" height="428" rx="10" fill="#1A1F2B"/>
+<rect x="16" y="12" width="878" height="404" rx="4" fill="none" stroke="#414B5E" stroke-width="1.4" stroke-dasharray="7 6"/>
+<circle cx="32" cy="30" r="5.5" fill="none" stroke="#E5A66B" stroke-width="1.6"/>
+<circle cx="54" cy="30" r="5.5" fill="none" stroke="#414B5E" stroke-width="1.6"/>
+<circle cx="76" cy="30" r="5.5" fill="none" stroke="#414B5E" stroke-width="1.6"/>
+<text x="110" y="24.0" fill="#414B5E" font-size="9" letter-spacing="1.6">. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . </text>
+<text x="110" y="30.0" fill="#414B5E" font-size="9" letter-spacing="1.6">. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . </text>
+<text x="110" y="36.0" fill="#414B5E" font-size="9" letter-spacing="1.6">. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . </text>
+<line x1="16" y1="60" x2="894" y2="60" stroke="#414B5E" stroke-width="1.4" stroke-dasharray="7 6"/>
+<rect x="40.0" y="104.8" width="22.8" height="37.2" fill="#E5A66B"/>
+<text x="42.0" y="134.4" font-size="38.0" fill="#1A1F2B">A</text>
+<text x="64.8" y="134.4" font-size="38.0" fill="#CBD9F0">I Web</text>
+<text x="42.0" y="178.1" font-size="38.0" fill="#CBD9F0">Developer</text>
+<text x="293" y="108.0" fill="#CBD9F0">jimena@miguez ------------------------------------------------------</text>
+<text x="293" y="130.0" fill="#E5A66B">. Frontend: </text>
+<text x="397.4" y="130.0" fill="#414B5E">...............</text>
+<text x="536.6" y="130.0" fill="#A9C6EE">React, Next, Vue, Nuxt, Nuxt UI,</text>
+<text x="536.6" y="152.0" fill="#A9C6EE">Tailwind, Daisy UI, Claude/design</text>
+<text x="293" y="174.0" fill="#E5A66B">. Backend &amp; Data: </text>
+<text x="449.6" y="174.0" fill="#414B5E">.........</text>
+<text x="536.6" y="174.0" fill="#A9C6EE">Node, Express, MongoDB, Sanity.io</text>
+<text x="293" y="196.0" fill="#E5A66B">. Languages.Code: </text>
+<text x="449.6" y="196.0" fill="#414B5E">.........</text>
+<text x="536.6" y="196.0" fill="#A9C6EE">TypeScript, JavaScript</text>
+<text x="293" y="218.0" fill="#E5A66B">. Ship &amp; Tooling: </text>
+<text x="449.6" y="218.0" fill="#414B5E">.........</text>
+<text x="536.6" y="218.0" fill="#A9C6EE">Git, GitHub, Bitbucket, AWS Amplify,</text>
+<text x="536.6" y="240.0" fill="#A9C6EE">Render, Vercel, Claude Code</text>
+<text x="293" y="262.0" fill="#E5A66B">. Languages.Human: </text>
+<text x="458.3" y="262.0" fill="#414B5E">........</text>
+<text x="536.6" y="262.0" fill="#A9C6EE">English, German, Spanish, Italian</text>
+<text x="293" y="306.0" fill="#CBD9F0">- Current build ----------------------------------------------------</text>
+<text x="293" y="328.0" fill="#E5A66B">. collocate: </text>
+<text x="406.1" y="328.0" fill="#414B5E">..............</text>
+<text x="536.6" y="328.0" fill="#A9C6EE">German collocation dictionary</text>
+<text x="293" y="350.0" fill="#E5A66B">. Stack: </text>
+<text x="371.3" y="350.0" fill="#414B5E">..................</text>
+<text x="536.6" y="350.0" fill="#A9C6EE">Nuxt 4, TypeScript, Supabase</text>
+<text x="293" y="372.0" fill="#E5A66B">. AI: </text>
+<text x="345.2" y="372.0" fill="#414B5E">.....................</text>
+<text x="536.6" y="372.0" fill="#A9C6EE">Claude Haiku 4.5, Anthropic API</text>
+<text x="293" y="394.0" fill="#E5A66B">. Status: </text>
+<text x="380.0" y="394.0" fill="#414B5E">.................</text>
+<text x="536.6" y="394.0" fill="#A9C6EE">in progress</text>
+</svg>
