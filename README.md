@@ -17,45 +17,45 @@ I like the boring parts: render budgets, cache keys, the state machine nobody wa
 <table>
   <tr>
     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="42" height="42" alt="Vue" /><br />
+      <img src="assets/icons/vue.svg" width="42" height="42" alt="Vue" /><br />
       <sub><b>Vue</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="42" height="42" alt="Nuxt" /><br />
+      <img src="assets/icons/nuxt.svg" width="42" height="42" alt="Nuxt" /><br />
       <sub><b>Nuxt</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" height="42" alt="React" /><br />
+      <img src="assets/icons/react.svg" width="42" height="42" alt="React" /><br />
       <sub><b>React</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/nextdotjs/8B949E" width="42" height="42" alt="Next.js" /><br />
+      <img src="assets/icons/nextjs.svg" width="42" height="42" alt="Next.js" /><br />
       <sub><b>Next.js</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" /><br />
+      <img src="assets/icons/javascript.svg" width="42" height="42" alt="JavaScript" /><br />
       <sub><b>JavaScript</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" height="42" alt="HTML" /><br />
+      <img src="assets/icons/html.svg" width="42" height="42" alt="HTML" /><br />
       <sub><b>HTML</b></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" height="42" alt="CSS" /><br />
+      <img src="assets/icons/css.svg" width="42" height="42" alt="CSS" /><br />
       <sub><b>CSS</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="42" height="42" alt="SCSS" /><br />
+      <img src="assets/icons/scss.svg" width="42" height="42" alt="SCSS" /><br />
       <sub><b>SCSS</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="42" height="42" alt="Tailwind" /><br />
+      <img src="assets/icons/tailwind.svg" width="42" height="42" alt="Tailwind" /><br />
       <sub><b>Tailwind</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/daisyui/FF7AC6" width="42" height="42" alt="DaisyUI" /><br />
+      <img src="assets/icons/daisyui.svg" width="42" height="42" alt="DaisyUI" /><br />
       <sub><b>DaisyUI</b></sub>
     </td>
     <td width="110"></td>
@@ -68,19 +68,19 @@ I like the boring parts: render budgets, cache keys, the state machine nobody wa
 <table>
   <tr>
     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node" /><br />
+      <img src="assets/icons/node.svg" width="42" height="42" alt="Node" /><br />
       <sub><b>Node</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/express/8B949E" width="42" height="42" alt="Express" /><br />
+      <img src="assets/icons/express.svg" width="42" height="42" alt="Express" /><br />
       <sub><b>Express</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42" height="42" alt="MongoDB" /><br />
+      <img src="assets/icons/mongodb.svg" width="42" height="42" alt="MongoDB" /><br />
       <sub><b>MongoDB</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/mongoose/C0392B" width="42" height="42" alt="Mongoose" /><br />
+      <img src="assets/icons/mongoose.svg" width="42" height="42" alt="Mongoose" /><br />
       <sub><b>Mongoose</b></sub>
     </td>
     <td width="110"></td>
@@ -93,27 +93,27 @@ I like the boring parts: render budgets, cache keys, the state machine nobody wa
 <table>
   <tr>
     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git" /><br />
+      <img src="assets/icons/git.svg" width="42" height="42" alt="Git" /><br />
       <sub><b>Git</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/github/8B949E" width="42" height="42" alt="GitHub" /><br />
+      <img src="assets/icons/github.svg" width="42" height="42" alt="GitHub" /><br />
       <sub><b>GitHub</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="42" height="42" alt="Bitbucket" /><br />
+      <img src="assets/icons/bitbucket.svg" width="42" height="42" alt="Bitbucket" /><br />
       <sub><b>Bitbucket</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/awsamplify/FF9900" width="42" height="42" alt="AWS Amplify" /><br />
+      <img src="assets/icons/amplify.svg" width="42" height="42" alt="AWS Amplify" /><br />
       <sub><b>AWS Amplify</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/render/46E3B7" width="42" height="42" alt="Render" /><br />
+      <img src="assets/icons/render.svg" width="42" height="42" alt="Render" /><br />
       <sub><b>Render</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/claude/D97757" width="42" height="42" alt="Claude Code" /><br />
+      <img src="assets/icons/claude.svg" width="42" height="42" alt="Claude Code" /><br />
       <sub><b>Claude Code</b></sub>
     </td>
   </tr>
